@@ -143,7 +143,7 @@ class ProgressDialog {
                         padding: EdgeInsets.only(top: 10),
                         child:Text(
                           textToBeDisplayed,
-                          style: TextStyle(color: Colors.white),
+                          style: TextStyle(color: Colors.black45),
                           textAlign: TextAlign.center,
                         )
                       )
