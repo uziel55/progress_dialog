@@ -124,7 +124,7 @@ class ProgressDialog {
           return CustomProgressDialog(
             child: Container(
                 decoration: BoxDecoration(
-                    color: Colors.black,
+                    color: Colors.white,
                     borderRadius: const BorderRadius.all(Radius.circular(5))),
                 padding: const EdgeInsets.all(20),
                 child: Column(
